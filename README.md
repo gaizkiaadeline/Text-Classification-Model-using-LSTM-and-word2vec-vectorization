@@ -10,3 +10,5 @@ This project presents a text classification model built with Long Short-Term Mem
 - Word2Vec Embeddings: Pre-trained word vectors for meaningful text representation.
 - Adam Optimizer: Adaptive optimization technique to enhance model performance.
 - Performance Evaluation: Accuracy and loss metrics are used to evaluate the model's performance.
+
+![pic3](https://github.com/user-attachments/assets/a981bdd2-8ad5-4c31-a96a-63ca4ec0975f)
